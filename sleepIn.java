@@ -7,4 +7,3 @@ weekday or we're on vacation. Return true if we sleep in.
 public boolean sleepIn(boolean weekday, boolean vacation) {
   return vacation || !weekday;
 }
-
